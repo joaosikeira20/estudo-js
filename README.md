@@ -1,1 +1,1 @@
-# estudo-js
+# estudos-js
